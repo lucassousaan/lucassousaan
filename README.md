@@ -50,20 +50,23 @@ Atuo com **revisão de código, mentoria e definição de arquitetura**, buscand
 - Sustentação de aplicativo em React Native, correção de bugs e pequenas melhorias  
 
 ---
+## 📖 Aprendizado e Desenvolvimento Pessoal
+- Estudo contínuo de **novas tecnologias mobile** e boas práticas de desenvolvimento  
+- Aprendizado autodidata com **projetos pessoais em Flutter e Kotlin**  
+- Sempre buscando **melhorar skills em Clean Architecture, testes e integração com APIs**
 
 ## 🌱 Projetos Pessoais / Open Source
-- [Projeto Flutter Example](#) – App exemplo com Clean Architecture e Riverpod  
-- [Repositório Kotlin Demo](#) – Demonstração de integração com APIs REST  
-
+- [Filmes Flutter (TMDB API)](https://github.com/lucassousaan/filmes_flutter_riverpod) – Aplicativo em **Flutter** usando **Riverpod** e integração com a **API do TMDB** para exibição de filmes e séries. (Em desenvolvimento)  
+- [FinTrack Android](https://github.com/lucassousaan/fintrack_android/) – Aplicativo de **controle financeiro** desenvolvido em **Kotlin/Android**, com persistência local e design clean. (Em desenvolvimento)
 ---
 
 ## 📫 Contato
 - Email: lsanjossousa@outlook.com  
-- LinkedIn: [Lucas Sousa](https://www.linkedin.com/in/lucassousadosanjos)  
+- LinkedIn: [Lucas Sousa](https://www.linkedin.com/in/lucas-sousa-3a2107136/)  
 - GitHub: [lucassousaan](https://github.com/lucassousaan)  
 
 ---
 
 ## ⚡ Fun fact
 - Sempre busco aprender novas tecnologias e melhorar minhas skills com **apps escaláveis e limpos**  
-- Curto participar de comunidades Flutter e contribuir com **projetos open source**
+- Curioso por novas tecnologias e sempre explorando ferramentas modernas no ecossistema mobile.
