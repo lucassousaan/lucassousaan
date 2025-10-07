@@ -29,7 +29,16 @@ Atuo com **revisão de código, mentoria e definição de arquitetura**, buscand
 
 **APIs & Backend:**  
 - Integração com APIs REST (Dio, Retrofit)  
-- Firebase (Auth, Firestore, Cloud Functions)  
+- Firebase (Auth, Firestore, Cloud Functions)
+
+**CI/CD & Automação:**  
+- Configuração de **CI com GitHub Actions** para Flutter:  
+  - Análise de código e formatação automática (`flutter analyze`, `dart format`)  
+  - Testes unitários e geração de código (`build_runner`)  
+- Configuração de **CD para releases**:  
+  - Build de **APK em modo release**  
+  - Criação automática de **GitHub Release** com o APK  
+- Gerenciamento de **variáveis de ambiente e secrets** para manter **API keys seguras**
 
 ---
 
