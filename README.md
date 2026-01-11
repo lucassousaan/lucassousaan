@@ -69,6 +69,7 @@ Atuo com **revisão de código, mentoria e definição de arquitetura**, buscand
   - **Objetivo:** Desacoplar a UI da lógica de estado (BLoC, Riverpod, etc.), eliminando boilerplate e blindando a UI contra refatorações de arquitetura.
   - **Destaques:** 100% de cobertura de testes, CI com GitHub Actions, design de API limpo e documentação completa.
   - **(Em desenvolvimento – Lançamento no pub.dev em breve)**
+- [Coinmaster](https://github.com/lucassousaan/coinmaster) - Aplicativo em **Flutter** usando **BLoC** e integração com a **API do Coingecko** para exibição de criptomoedas recentes. Objetivo só praticar o BLoC.
 - [Filmes Flutter (TMDB API)](https://github.com/lucassousaan/filmes_flutter_riverpod) – Aplicativo em **Flutter** usando **Riverpod** e integração com a **API do TMDB** para exibição de filmes e séries. (Em desenvolvimento)  
 - [FinTrack Android](https://github.com/lucassousaan/fintrack_android/) – Aplicativo de **controle financeiro** desenvolvido em **Kotlin/Android**, com persistência local e design clean. (Em desenvolvimento)
 ---
